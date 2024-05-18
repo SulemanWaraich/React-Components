@@ -1,0 +1,34 @@
+.app-container {
+  display: flex;
+}
+.content {
+  width: 100%;
+}
+.sidebar {
+  min-height: 100vh;
+}
+.post {
+  margin: 20px 50px;
+}
+.Hashtag {
+  margin: 0 3px;
+  text-transform: capitalize;
+}
+.reactions {
+  margin: 15px 0 0 0;
+  text-transform: capitalize;
+}
+.create-post {
+  width: 80%;
+  margin-top: 5%;
+  margin-left: 10%;
+}
+.btn {
+  cursor: pointer;
+}
+.welcome {
+  margin: 100px 0;
+}
+.spinner {
+  margin: 10% 0;
+}
